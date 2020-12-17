@@ -1,1 +1,4 @@
-# Hakuna-Fermata
+# Finals Week Blues 
+
+## How It Works 
+Mission8.rb contains the base code for the relaxing song I created to listen to while studying using Sonic Pi. In order to recreate the song that  I made, please download Sonic Pi and copy and paste the code from Mission8.rb into a file on your computer. After 2 minutes and 30 seconds, I changed the BPM from 30 to 25 and removed the intro section of the song. If you would like to replicate the exact song that I made, while running the code in Sonic Pi, take advantage of the live loop and hit play again at 2 minutes and thirsty seconds. It does  not have to be exactly at that point in the song, but 10  or so second around this time marker should accurately replicate the song I produced. Happy studying!
